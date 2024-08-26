@@ -1,6 +1,7 @@
 # Joia
 
-<img src="/repo/print1.jpg" alt="Exemplo imagem">
+<img src="/graphics/start.png" width=300px>
+<img src="/repo/print1.jpg" width=300px>
 <br>
 
 A Jewel game for Gameboy Advance made in C using the [tonc library](https://github.com/gbadev-org/libtonc).
